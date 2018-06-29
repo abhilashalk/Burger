@@ -8,3 +8,6 @@ To try the functionality of application, install the dependencies in package.jso
 Connect to mySQL using command- mysql -u root
 And add the source  from db folder.
 Start the node server to view the 'Burger App'.
+
+Heroku site:
+https://warm-stream-56727.herokuapp.com/
