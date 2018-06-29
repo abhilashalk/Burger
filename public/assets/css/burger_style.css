@@ -1,0 +1,29 @@
+.container {
+  border:1px solid #000; 
+    background-color:#FFF; 
+    background-image:url('../../assets/img/burger2.jpg'); 
+    width: 1300px;
+    height:100%;
+}
+
+h2,p {
+  color: whitesmoke;
+}
+p{
+  font-size: 20px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: rgb(240, 204, 45);
+  height: 3rem;
+  line-height: 30px;
+  font-size: 1.15rem;
+}
+
